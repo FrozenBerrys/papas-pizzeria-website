@@ -1,0 +1,30 @@
+* {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color:antiquewhite;
+
+}
+
+.img {
+
+    width: 300px;
+    height: auto;
+
+}
+
+p {
+
+    background-color: white;
+    text-align:center;
+    border-width:2px;
+    border-color:black;
+    border-style: solid;
+    width: 900px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    padding: 25px;
+
+}
